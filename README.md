@@ -123,7 +123,7 @@ I am an AI & Machine Learning Engineer with a passion for solving real-world pro
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shekhar442&show_icons=true&theme=radical)
 
 ---
 
@@ -131,7 +131,7 @@ I am an AI & Machine Learning Engineer with a passion for solving real-world pro
 
 I'm always interested in collaborating on innovative AI/ML projects, discussing emerging technologies, or sharing insights from my journey. Feel free to reach out!
 
-- 📧 Email: shekhar_442@yahoo.co.in
+- 📧 Email: shekharsuman460@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/shekharsuman-a5978833](https://www.linkedin.com/in/shekharsuman-a5978833)
 - 📍 Location: Delhi, India
 
