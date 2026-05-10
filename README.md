@@ -132,7 +132,7 @@ I am an AI & Machine Learning Engineer with a passion for solving real-world pro
 I'm always interested in collaborating on innovative AI/ML projects, discussing emerging technologies, or sharing insights from my journey. Feel free to reach out!
 
 - 📧 Email: shekharsuman460@gmail.com
-- Portfolio: [https://shekhar-suman-460.vercel.app/](https://shekhar-suman-460.vercel.app/)
+- 🌐 Portfolio: [https://shekhar-suman-460.vercel.app/](https://shekhar-suman-460.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/shekharsuman-a5978833](https://www.linkedin.com/in/shekharsuman-a5978833)
 - 📍 Location: Delhi, India
 
